@@ -1,0 +1,37 @@
+body{
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    background: #f5dbda;
+}
+
+.header_div{
+    background: rgb(209, 201, 201);
+    color: rgb(97, 3, 97);
+}
+
+.header_div p{
+    font-family: 'Dekko', cursive;
+    color: dimgray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: cornflowerblue;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: bisque;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(24, 156, 218);
+}
